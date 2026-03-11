@@ -24,14 +24,6 @@
    ============================================ */
 
 // Your web app's Firebase configuration (from Firebase Console)
-const firebaseConfig = {
-    apiKey: "AIzaSyA6kt8nM-Fn_hPrwsf-Ab3SvurPa1IRma4",
-    authDomain: "expenseflow-app.firebaseapp.com",
-    projectId: "expenseflow-app",
-    storageBucket: "expenseflow-app.firebasestorage.app",
-    messagingSenderId: "1096574706839",
-    appId: "1:1096574706839:web:2405e5826eb12bf7cfb5d2"
-};
 
 // ── Initialize Firebase (using compat SDK loaded via CDN) ──
 let firebaseApp = null;
